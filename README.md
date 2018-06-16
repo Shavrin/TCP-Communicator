@@ -1,2 +1,4 @@
 # TCP-Communicator
-Simple FTP text communicator.
+Simple TCP text communicator.
+
+Made with SFML.
